@@ -1,0 +1,25 @@
+{
+  "name": "react-bootstrap",
+  "version": "0.0.0",
+  "authors": [
+    "Mladen V. Angelov <xfk.dgt@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
